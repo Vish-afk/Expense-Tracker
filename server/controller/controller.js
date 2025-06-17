@@ -1,3 +1,4 @@
+//server controller.js
 const model = require('../models/model');
 const express = require('express');
 

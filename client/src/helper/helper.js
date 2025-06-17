@@ -1,3 +1,4 @@
+//client helper.js
 import _ from 'lodash';
 
 export function getSum(transaction, type) {
